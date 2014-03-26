@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://liuyong.github.io/sitemap.xml 
