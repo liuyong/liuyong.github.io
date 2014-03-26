@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://intalk.cc
+title: 刘镛的博客
+subtitle: 刘镛客栈——我的博客.
+author: 刘镛
 simple_search: https://www.google.com/search
 description:
 
@@ -62,23 +62,27 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 #   3rd Party Settings    #
 # ----------------------- #
 
+weibo_user: 1273058303 # 微博数字 ID 或域名 ID
+dribbble_user: 
+weibo_share: true # 是否开启微博分享按钮
+
 # Github repositories
-github_user:
+github_user: liuyong
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: 465530401@qq.com
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
+googleplus_user: liuyong1987@gmail.com
 googleplus_hidden: false
 
 # Pinboard
@@ -90,11 +94,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: liuyong1987
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
